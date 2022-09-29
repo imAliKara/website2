@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbarbas a:hover{
+	color:lightgrey !important;
+}
+
+.headeryazi{
+	font-family:The New Roman;
+	color: #505050;
+}
+
+.navyazi{
+	font-family:The New Roman;
+}
+
+.card-block { background-color: rgba(245, 245, 245, 0.4); }
+
+.slider21{
+	height:300px;
+}
+.slider22{
+	height:132px;
+}
+
+.bgstyle{
+	color:#e2e2e2;
+}
+
+.footerbaslik h5{
+	margin-bottom:30px;
+	margin-top:30px;
+}
+
+.footeryazi p{
+	color:gray; 
+	width:400px; 
+	text-align:justify; 
+	font-size:14px;
+}
+.footeryazi a{
+	color:gray; 
+	width:380px; 
+	text-align:justify; 
+	font-size:14px;
+}
+.footerb{
+	background-color:#ededed;
+	border-top:1px solid #ccc;
+}
+
+.blog p{
+	margin-top:30px;
+}
+
+.blog h2{
+	margin-bottom:30px;
+}
+
+.headerstil{
+	font-size:14px; 
+	height:55px; 
+	justify-content:center;
+}
+
+.fotır h4{
+	color:gray;
+}
+.fotır h5{
+	color:gray;
+}
+.fotır h6{
+	color:gray;
+}
+.fotır i{
+	color:gray;
+}
+.fotır a{
+	color:red; 
+	text-align:end; 
+	font-size:12px;
+}
+	
+.kopi{
+	color:gray;
+}
+
+.karosel{
+	position:absolute;
+	left:50px !important;
+}
+
+.slidernokta button{
+	width:10px  !important;
+	height:10px  !important;
+	border-radius:50%  !important;
+	position:relative !important;
+	left:600px !important;
+	bottom:480px; !important;	
+}
+
+.konteynırarka{
+	background-color:#ededed !important;
+}
